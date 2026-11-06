@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 AI-Driven Personalized Budgeting System
 
 > **Enhancing Household Financial Management with Artificial Intelligence**  
@@ -96,3 +97,7 @@ FinBERT	19%	6%	19%	9%
 
 Result: DistilBERT outperformed FinBERT in classifying informal household transactions, demonstrating better generalization and real-time adaptability.
 
+=======
+# Smart-Budgeting-Application
+Personal Finance Management and Smart Budgeting Web Application
+>>>>>>> a3b3c86958f3789b2494925d1b294587bf182cab
