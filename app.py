@@ -52,7 +52,7 @@ class Budget(db.Model):
 def categorize_expense_rule_based(description):
     description = description.lower()
     rules = {
-        'Food': ['coffee', 'food', 'restaurant', 'dinner', 'lunch', 'cafe'],
+        'Food': ['coffee', 'food', 'restaurant', 'dinner', 'lunch', 'cafe','chocolate','snack'],
         'Transport': ['taxi', 'bus', 'fuel', 'train', 'flight', 'uber'],
         'Entertainment': ['movie', 'concert', 'game', 'ticket', 'netflix'],
         'Groceries': ['supermarket', 'milk', 'bread'],
